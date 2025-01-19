@@ -68,6 +68,7 @@ namespace c__Tasks
             }
 
             Console.WriteLine("Array elements: ");
+            Console.WriteLine("Array elements: ");
             for (int i = 0; i < elements.Length; i++)
             {
                 Console.Write(elements[i] + " ");
